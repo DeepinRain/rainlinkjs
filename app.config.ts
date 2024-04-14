@@ -17,12 +17,16 @@ export default defineAppConfig({
       exclude: []
     },
     header: {
-      logo: false
+      logo: false,
+      showLinkIcon: true,
     },
     footer: {
-      iconLinks: [
-          
-      ]
+      iconLinks: [],
+      credits: {
+        icon: '',
+        text: 'Powered by RainyProduction',
+        href: 'https://github.com/RainyProduction',
+      },
     }
 }
 })
