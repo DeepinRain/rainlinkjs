@@ -3,7 +3,6 @@ export default defineAppConfig({
   docus: {
     title: "Rainlink",
     description: "Another lavalink wrapper but focus on stability and rich features",
-    image: 'fluent:weather-rain-showers-day-24-filled',
     socials: {
       github: "RainyXeon/Rainlink",
       discord: {
@@ -18,7 +17,7 @@ export default defineAppConfig({
     },
     header: {
       logo: false,
-      showLinkIcon: true,
+      showLinkIcon: false,
     },
     footer: {
       iconLinks: [],
