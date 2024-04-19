@@ -1,0 +1,1 @@
+{"id":"99c26283-17d3-4f24-a59f-81a89383f232","timestamp":1713533644473,"matcher":{"static":{"/api/search":{"prerender":true}},"wildcard":{},"dynamic":{}},"prerendered":["/","/introduction/getting-started","/api/api-documentation","/introduction/how-to-use","/development/driver","/development/library","/development/source-resolver-plugin","/development/regular-plugin"]}
