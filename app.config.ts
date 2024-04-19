@@ -9,6 +9,11 @@ export default defineAppConfig({
         label: "Support",
         href: "https://discord.com/invite/xff4e2WvVy",
         icon: "ic:baseline-discord"
+      },
+      npmjs: {
+        label: "npm",
+        href: "https://www.npmjs.com/package/rainlink",
+        icon: "carbon:logo-npm"
       }
     },
     aside: {
