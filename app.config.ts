@@ -7,7 +7,7 @@ export default defineAppConfig({
       github: "RainyXeon/Rainlink",
       discord: {
         label: "Support",
-        href: "https://discord.com/invite/xff4e2WvVy",
+        href: "https://discord.com/invite/kwEmpMExmv",
         icon: "ic:baseline-discord"
       },
       npmjs: {
